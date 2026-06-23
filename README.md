@@ -337,7 +337,7 @@ Total: ~15 weeks of focused learning
    • Python (FastAPI, Flask, Django)
    • JavaScript/TypeScript (Node.js, React)
    • .NET/C# (Assembly manipulation, debugging)
-   • APIs & Integrations (OpenAI, Anthropic, Google, Alibaba)
+   • APIs & Integrations (OpenAI, Anthropic, Google, Ollama)
 
 🤖 AI/ML Focus:
    • Large Language Models (LLMs)
@@ -429,7 +429,7 @@ If you find my projects helpful:
 
 <div align="center">
 
-**Made with ❤️ by [Esteban Bouza](https://github.com/estebouza)**
+**Made with ❤️ by [Esteban Bouza] Since 2010 (https://github.com/estebouza)**
 
 *Spreading AI knowledge, one project at a time.*
 
