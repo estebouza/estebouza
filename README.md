@@ -423,7 +423,7 @@ If you find my projects helpful:
 
 ---
 
-**Thanks for visiting my profile! Explore my repositories and let's build amazing AI tools together.** 🌟
+**Thanks for visiting my profile! Explore my repositories and let's build amazing AI tools together.** 
 
 ---
 
